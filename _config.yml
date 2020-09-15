@@ -6,7 +6,7 @@
 # --- Required options --- #
 
 # Name of website
-title: Python para CD
+title: Aprende conmigo
 
 # Your name to show in the footer
 author: Yael Badillo
@@ -40,8 +40,8 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "someone@example.com"
-  facebook: deanattali
-  github: "https://github.com/YaelBadillo"
+#  facebook: deanattali
+  github: YaelBadillo
   twitter: daattali
 #  reddit: yourname
 #  linkedin: daattali
@@ -70,7 +70,7 @@ rss-description: This website is a virtual proof that I'm awesome
 # Select which social network share links to show in posts
 share-links-active:
   twitter: true
-  facebook: true
+  facebook: false
   linkedin: true
   vk: false
 
