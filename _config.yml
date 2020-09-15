@@ -6,7 +6,7 @@
 # --- Required options --- #
 
 # Name of website
-title: Aprende conmigo
+# title: Aprende Conmigo
 
 # Your name to show in the footer
 author: Yael Badillo
@@ -18,7 +18,7 @@ navbar-links:
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: ""
+      #  Author's home: ""
 
 # --- Logo --- #
 
